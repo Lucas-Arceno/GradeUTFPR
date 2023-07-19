@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.scrollable-container {
+    overflow: auto; /* Adiciona uma barra de rolagem somente quando necessário */
+    max-height: 850px; /* Defina a altura máxima da caixa de rolagem */
+  }
+
+.teste{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Adiciona alinhamento no topo */
+}

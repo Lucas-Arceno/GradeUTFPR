@@ -1,0 +1,32 @@
+table {
+    transform: scale(1.3); /* Aumenta o tamanho da tabela em 20% */
+    transform-origin: top left; /* Define a origem da transformação */
+    margin-right: 15em;
+    border: 1px solid black; /* Adiciona uma borda à tabela */
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -200px 0px;
+    background-color: grey;
+    /* background-image: url(./chad.jpg); */
+  }
+  
+  td, th {
+    padding: 6px; /* Ajuste o espaçamento interno das células conforme necessário */
+    font-size: 15px; /* Ajuste o tamanho da fonte das células conforme necessário */
+    border: 1px solid black; /* Adiciona uma borda às células */
+    text-align: center;
+  }
+
+  th{
+    background-color: gainsboro;
+  }
+
+  .updated-cell {
+    background-color: rgb(58, 215, 98);  
+  }
+
+  .collision-cell-temp {
+    background-color: red; /* Cor de fundo vermelha */
+    /* Outros estilos de destaque para as células que colidem */
+  }

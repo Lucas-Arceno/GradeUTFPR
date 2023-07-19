@@ -1,0 +1,2771 @@
+[
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2N1(CB-204) - 2T5(CB-204) - 2T6(CB-204)",
+        "Optativa": "Leonelo Dell Anhol Almeida"
+      }
+    ],
+    "Matéria": "CSH42 - Acessibilidade E Inclusão Digital"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação",
+        "Horario": "",
+        "Professor": "3M4(CE-107) - 3M5(CE-107) - 5M4(CE-307) - 5M5(CE-307)",
+        "Optativa": "Rodrigo Dos Santos Pacheco"
+      }
+    ],
+    "Matéria": "MAT7AL - Álgebra Linear"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S41",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "3T1(CE-201) - 3T2(CE-201) - 5T1(CE-208) - 5T2(CE-208)",
+        "Optativa": "Denise De Siqueira"
+      },
+      {
+        "Turma": "S43",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "3T3(CE-207) - 3T4(CE-207) - 5T3(CE-107) - 5T4(CE-107)",
+        "Optativa": "Denise De Siqueira"
+      }
+    ],
+    "Matéria": "MA72I - Álgebra Linear"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "4M3(CB-105) - 4M4(CB-105) - 4M5(CB-105)",
+        "Optativa": "Laudelino Cordeiro Bastos"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "3T1(CB-107) - 3T2(CB-107) - 3T3(CB-107)",
+        "Optativa": "Laudelino Cordeiro Bastos"
+      }
+    ],
+    "Matéria": "ICSG20 - Análise E Projeto De Sistemas"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T2(CB-104) - 2T3(CB-104) - 6T4(CB-106) - 6T5(CB-106)",
+        "Optativa": "Marcelo Mikosz Goncalves"
+      }
+    ],
+    "Matéria": "CSW20 - Arquitetura E Organização De Computadores"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "6T3(CE-103) - 6T4(CE-103) - 6T5(CE-103)",
+        "Optativa": "Silvia Amelia Bim"
+      }
+    ],
+    "Matéria": "ICSH41 - Avaliação Em Interação Humano-Computador"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "4T2(CB-104) - 4T3(CB-104) - 6T2(CB-104) - 6T3(CB-104)",
+        "Optativa": "Nadia Puchalski Kozievitch"
+      }
+    ],
+    "Matéria": "ICSB41 - Banco De Dados 2"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "2T3(CE-307) - 2T4(CE-307) - 5T4(CE-207) - 5T5(CE-207) - 6T4(CE-108) - 6T5(CE-108)",
+        "Optativa": "Priscila Savulski Ferreira De Miranda"
+      },
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "3N4(CE-201) - 3N5(CE-201) - 4N1(CE-207) - 4N2(CE-207) - 5N1(CE-208) - 5T6(CE-208)",
+        "Optativa": "Danielle Durski Figueiredo"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "2M1(CE-101) - 2M2(CE-101) - 5M5(CE-101) - 5M6(CE-101) - 6M1(CE-101) - 6M2(CE-101)",
+        "Optativa": "Francismar Ferreira Lima"
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Ind Automação1 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "2T1(CE-301) - 2T2(CE-301) - 4M5(CE-201) - 4M6(CE-201) - 5M1(CE-301) - 5M2(CE-301)",
+        "Optativa": "Francismar Ferreira Lima"
+      },
+      {
+        "Turma": "S81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Física",
+        "Horario": "",
+        "Professor": "2T5(CE-101) - 2T6(CE-101) - 5T1(CE-108) - 5T2(CE-108) - 6T1(CE-307) - 6T2(CE-307)",
+        "Optativa": "Priscila Savulski Ferreira De Miranda"
+      }
+    ],
+    "Matéria": "MA71A - Cálculo Diferencial E Integral 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S41",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "3T5(CE-108) - 3T6(CE-108) - 5T5(CE-301) - 5T6(CE-301)",
+        "Optativa": "Luiz Fernando Nunes"
+      },
+      {
+        "Turma": "S43",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "3T1(CE-204) - 3T2(CE-204) - 5T1(CE-304) - 5T2(CE-304)",
+        "Optativa": "Luiz Fernando Nunes"
+      }
+    ],
+    "Matéria": "MA71H - Cálculo Diferencial E Integral 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "4T4(CE-201) - 4T5(CE-201) - 6T5(CE-107) - 6T6(CE-107)",
+        "Optativa": "Aline Cristina Da Rocha"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "3M1(CE-108) - 3M2(CE-108) - 5M1(CE-108) - 5M2(CE-108)",
+        "Optativa": "Roy Wilhelm Probst"
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "3M1(CE-107) - 3M2(CE-107) - 5M1(CE-107) - 5M2(CE-107)",
+        "Optativa": "Aline Cristina Da Rocha"
+      },
+      {
+        "Turma": "S41",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "4T3(CE-207) - 4T4(CE-207) - 6T5(CE-307) - 6T6(CE-307)",
+        "Optativa": "Rodrigo Garcia Eustaquio"
+      },
+      {
+        "Turma": "S43",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "4T3(CE-207) - 4T4(CE-207) - 6T5(CE-307) - 6T6(CE-307)",
+        "Optativa": "Rodrigo Garcia Eustaquio"
+      },
+      {
+        "Turma": "S55",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Amb/Sanitária",
+        "Horario": "",
+        "Professor": "3M1(CE-107) - 3M2(CE-107) - 5M1(CE-107) - 5M2(CE-107)",
+        "Optativa": "Aline Cristina Da Rocha"
+      }
+    ],
+    "Matéria": "MA70C - Cálculo Numérico"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "3N1(CE-204) - 3N2(CE-204) - 3N3(CE-204)",
+        "Optativa": "Sandro Marlus Wambier"
+      }
+    ],
+    "Matéria": "FCH7HC - Capitalismo Contemporâneo E Economia Política"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5N1(D-PTO) - 5N1(D-PTO) - 5N2(D-PTO) - 5N2(D-PTO) - 5N3(D-PTO) - 5N3(D-PTO) - 5T6(D-PTO) - 5T6(D-PTO)",
+        "Optativa": "Ricardo LudersThiago Henrique Silva"
+      }
+    ],
+    "Matéria": "ICSI31 - Ciência Das Redes"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação",
+        "Horario": "",
+        "Professor": "5M4(CA-203) - 5M5(CA-203)",
+        "Optativa": "Thomaz Aurelio Pagioro"
+      }
+    ],
+    "Matéria": "QBI7CA - Ciências Do Ambiente"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica2 - Eng Ind Automação2 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "5T4(CC-206) - 5T5(CC-206)",
+        "Optativa": "Jonas Golart Da Silva"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica2 - Eng Ind Automação2 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "5M2(CA-203) - 5M3(CA-203)",
+        "Optativa": "Thomaz Aurelio Pagioro"
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Ind Automação1 - Eng Contr/Automação2 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "5T2(CE-206) - 5T3(CE-206)",
+        "Optativa": "Jonas Golart Da Silva"
+      }
+    ],
+    "Matéria": "QB70E - Ciências Do Ambiente"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "5N1(CE-301) - 5N2(CE-301)",
+        "Optativa": "Jonas Golart Da Silva"
+      }
+    ],
+    "Matéria": "QB70J - Ciências Do Ambiente"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2N1(CC-205) - 2N2(CC-205) - 2T6(CC-205)",
+        "Optativa": "Giovanna Pezarico"
+      }
+    ],
+    "Matéria": "GE73A - Comportamento Humano Nas Organizações"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "4N1(CB-201) - 4N2(CB-201) - 5N1(CB-201) - 5N2(CB-201)",
+        "Optativa": "Leandro Miranda Zatesko"
+      }
+    ],
+    "Matéria": "CSA43 - Computação Quântica"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "E11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "1 - Tecnol. Sist. Telec.",
+        "Horario": "",
+        "Professor": "4N1(CE-306) - 4N1(CE-306) - 4N2(CE-306) - 4N2(CE-306)",
+        "Optativa": "Ubiradir Mendes PintoJamea Cristina Batista Silva Franklin"
+      },
+      {
+        "Turma": "N11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "30",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Tecnol. Sist. Telec.",
+        "Horario": "",
+        "Professor": "4N4(CQ-302) - 4N4(CQ-302) - 4N5(CQ-302) - 4N5(CQ-302)",
+        "Optativa": "Ubiradir Mendes PintoJamea Cristina Batista Silva Franklin"
+      },
+      {
+        "Turma": "S15",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecatrônica",
+        "Horario": "",
+        "Professor": "3M2(CE-101) - 3M3(CE-101)",
+        "Optativa": "Marcelo Stein De Lima Sousa"
+      },
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "3N2(CE-108) - 3N3(CE-108)",
+        "Optativa": "Marcelo Stein De Lima Sousa"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "2M5(CE-301) - 2M6(CE-301)",
+        "Optativa": ""
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "5M3(CE-105) - 5M4(CE-105)",
+        "Optativa": ""
+      },
+      {
+        "Turma": "S31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Design",
+        "Horario": "",
+        "Professor": "4M5(CE-307) - 4M6(CE-307)",
+        "Optativa": "Amanda Crispim Ferreira"
+      },
+      {
+        "Turma": "S53",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "22",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Arquitet E Urbanismo",
+        "Horario": "",
+        "Professor": "2T2(CE-304) - 2T3(CE-304)",
+        "Optativa": "Paulo Eduardo Benites De Moraes"
+      },
+      {
+        "Turma": "S55",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Amb/Sanitária",
+        "Horario": "",
+        "Professor": "5M3(CC-205) - 5M4(CC-205)",
+        "Optativa": "Paulo Eduardo Benites De Moraes"
+      },
+      {
+        "Turma": "S81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Física",
+        "Horario": "",
+        "Professor": "3T4(CA-102) - 3T5(CA-102)",
+        "Optativa": "Janete Terezinha Ferron"
+      },
+      {
+        "Turma": "T81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "26",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Tecnol.Em Radiologia",
+        "Horario": "",
+        "Professor": "2T1(CE-108) - 2T2(CE-108)",
+        "Optativa": ""
+      }
+    ],
+    "Matéria": "COE70A - Comunicação Oral E Escrita"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "4N1(CB-106) - 4T6(CB-106) - 5N1(CB-106) - 5T6(CB-106)",
+        "Optativa": "Wilson Horstmeyer Bogado"
+      }
+    ],
+    "Matéria": "CSM41 - Desenvolvimento De Aplicações Web"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "6T4(CB-202) - 6T5(CB-202) - 6T6(CB-202)",
+        "Optativa": "Paulo Roberto Bueno"
+      }
+    ],
+    "Matéria": "CSM30 - Desenvolvimento Integrado De Sistemas"
+  },
+  { "turmas": [], "Matéria": "FCH7XF - Dimensão Ambiental Na Gestão Urbana" },
+  {
+    "turmas": [
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "5T4(CE-308) - 5T5(CE-308)",
+        "Optativa": "Andrea De Souza"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "5M1(CC-205) - 5M2(CC-205)",
+        "Optativa": "Daniel Teixeira Dos Santos Braz"
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Ind Automação1 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "2M1(CE-103) - 2M2(CE-103)",
+        "Optativa": "Maria Lucia Figueiredo Gomes De Meza"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação2 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "3T4(CE-304) - 3T5(CE-304)",
+        "Optativa": "Andrea De Souza"
+      }
+    ],
+    "Matéria": "GE70D - Economia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "2T2(CB-105) - 2T3(CB-105) - 3T4(CE-303) - 3T5(CE-303)",
+        "Optativa": "Paulo Cezar Stadzisz"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "2N1(CB-202) - 2N2(CB-202) - 2N3(CB-202) - 2N4(CB-202)",
+        "Optativa": "Paulo Cezar Stadzisz"
+      }
+    ],
+    "Matéria": "ICSE30 - Engenharia De Software"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "2T2(CB-204) - 2T3(CB-204) - 2T4(CB-204)",
+        "Optativa": "Maria Claudia Figueiredo Pereira Emer"
+      }
+    ],
+    "Matéria": "ICSE40 - Engenharia De Software 2"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T1(CB-106) - 2T2(CB-106) - 2T3(CB-106)",
+        "Optativa": "Rodrigo Minetto"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2M1(CB-107) - 2M2(CB-107) - 2M3(CB-107)",
+        "Optativa": "Rodrigo Minetto"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "2T4(CB-104) - 2T5(CB-104) - 2T6(CB-104)",
+        "Optativa": "Mauro Sergio Pereira Fonseca"
+      }
+    ],
+    "Matéria": "ICSF20 - Estruturas De Dados 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "5T1(CB-107) - 5T2(CB-107) - 5T3(CB-107)",
+        "Optativa": "Juliana De Santi"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "6T1(CB-107) - 6T2(CB-107) - 6T3(CB-107)",
+        "Optativa": "Juliana De Santi"
+      }
+    ],
+    "Matéria": "ICSF30 - Estruturas De Dados 2"
+  },
+  { "turmas": [], "Matéria": "ES70P - Filosofia Da Ciência E Da Tecnologia" },
+  {
+    "turmas": [
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "3N1(CE-303) - 3N2(CE-303) - 3N3(CE-303)",
+        "Optativa": "Alex Calazans"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação",
+        "Horario": "",
+        "Professor": "2T2(CE-202) - 2T3(CE-202) - 2T4(CE-202)",
+        "Optativa": "Veronica Ferreira Bahr Calazans"
+      },
+      {
+        "Turma": "S83",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Matemática",
+        "Horario": "",
+        "Professor": "5M4(CE-207) - 5M5(CE-207) - 5M6(CE-207)",
+        "Optativa": "Veronica Ferreira Bahr Calazans"
+      },
+      {
+        "Turma": "S93",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Educação Física",
+        "Horario": "",
+        "Professor": "5M3(CE-304) - 5M4(CE-304) - 5M5(CE-304)",
+        "Optativa": "Arilson Pereira Do Vale"
+      }
+    ],
+    "Matéria": "FCH7FA - Filosofia Da Ciência E Da Tecnologia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S15",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecatrônica",
+        "Horario": "",
+        "Professor": "2M2(CE-303) - 2M3(CE-303)",
+        "Optativa": "Wanderley Jose Deina"
+      },
+      {
+        "Turma": "S31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Design",
+        "Horario": "",
+        "Professor": "2M2(CE-104) - 2M3(CE-104)",
+        "Optativa": "Andrea Maila Voss"
+      },
+      {
+        "Turma": "S41",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "6N3(CA-202) - 6N4(CA-202)",
+        "Optativa": "Wanderley Jose Deina"
+      }
+    ],
+    "Matéria": "ES70H - Fundamentos Da Ética"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "5T2(CE-204) - 5T3(CE-204) - 5T4(CE-204)",
+        "Optativa": "Arilson Pereira Do Vale"
+      },
+      {
+        "Turma": "S63",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Administração",
+        "Horario": "",
+        "Professor": "6M1(CE-108) - 6M2(CE-108) - 6M3(CE-108)",
+        "Optativa": "Alex Calazans"
+      }
+    ],
+    "Matéria": "FCH7FB - Fundamentos Da Ética"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3M3(CB-202) - 3M4(CB-202) - 3M5(CB-202) - 6M3(CB-202) - 6M4(CB-202) - 6M5(CB-202)",
+        "Optativa": "Juliana De Santi"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "50",
+        "Vagas Calouros": "44",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2M4(CB-201) - 2M5(CB-201) - 2M6(CB-201) - 4M4(CB-201) - 4M5(CB-201) - 4M6(CB-201)",
+        "Optativa": "Leyza Elmeri Baldo Dorini"
+      },
+      {
+        "Turma": "S72",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "0",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "2M4(CB-202) - 2M5(CB-202) - 2M6(CB-202) - 4M4(CB-104) - 4M5(CB-104) - 4M6(CB-104)",
+        "Optativa": "Bogdan Tomoyuki Nassu"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "50",
+        "Vagas Calouros": "44",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "3T1(CB-201) - 3T2(CB-201) - 3T3(CB-201) - 5T1(CB-104) - 5T2(CB-104) - 5T3(CB-104)",
+        "Optativa": "Daniel Fernando Pigatto"
+      },
+      {
+        "Turma": "S74",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "0",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "3T1(CB-105) - 3T2(CB-105) - 3T3(CB-105) - 5T1(CB-202) - 5T2(CB-202) - 5T3(CB-202)",
+        "Optativa": "Leyza Elmeri Baldo Dorini"
+      }
+    ],
+    "Matéria": "ICSF13 - Fundamentos De Programação 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "4T4(CB-105) - 4T5(CB-105) - 6T2(CB-202) - 6T3(CB-202)",
+        "Optativa": "Alexandre Reis Graeml"
+      }
+    ],
+    "Matéria": "CSG10 - Fundamentos De Sistemas De Informação"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S15",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecatrônica",
+        "Horario": "",
+        "Professor": "4M2(CE-101) - 4M3(CE-101) - 5M4(CE-308) - 5M5(CE-308)",
+        "Optativa": "George Arruda Gomm"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação",
+        "Horario": "",
+        "Professor": "3T5(CE-208) - 3T6(CE-208) - 6T1(CE-108) - 6T2(CE-108)",
+        "Optativa": "Rodrigo Garcia Eustaquio"
+      }
+    ],
+    "Matéria": "MAT7GA - Geometria Analítica"
+  },
+  { "turmas": [], "Matéria": "MA71I - Geometria Analítica" },
+  {
+    "turmas": [
+      {
+        "Turma": "S11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "3T2(CE-101) - 3T3(CE-101) - 5T2(CE-201) - 5T3(CE-201) - 6T2(CE-101) - 6T3(CE-101)",
+        "Optativa": "Lilian Cordeiro Brambila"
+      },
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "3T4(CE-101) - 3T5(CE-101) - 5T4(CE-201) - 5T5(CE-201) - 6T4(CE-101) - 6T5(CE-101)",
+        "Optativa": "Lilian Cordeiro Brambila"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "3T2(CE-107) - 3T3(CE-107) - 4M5(CE-101) - 4M6(CE-101) - 6M5(CE-101) - 6M6(CE-101)",
+        "Optativa": "Christian Manuel Surco Chuno"
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "2M1(CE-301) - 2M2(CE-301) - 3M3(CE-201) - 3M4(CE-201) - 6M1(CE-205) - 6M2(CE-205)",
+        "Optativa": "Hellen Cristina Spengler"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T2(CE-308) - 2T3(CE-308) - 5T5(CE-101) - 5T6(CE-101) - 6T4(CE-201) - 6T5(CE-201)",
+        "Optativa": "Thais Mariane Biembengut Faria"
+      },
+      {
+        "Turma": "S81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Física",
+        "Horario": "",
+        "Professor": "3T3(CE-201) - 3T4(CE-201) - 3T5(CE-201) - 4T4(CE-101) - 4T5(CE-101) - 4T6(CE-101)",
+        "Optativa": "Thais Mariane Biembengut Faria"
+      }
+    ],
+    "Matéria": "MA71B - Geometria Analítica E Álgebra Linear"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T5(CE-103) - 2T6(CE-103) - 5T5(CB-201) - 5T6(CB-201)",
+        "Optativa": "Ricardo Dutra Da Silva"
+      }
+    ],
+    "Matéria": "ICSA4A - Geometria Computacional"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "5N1(CB-202) - 5N2(CB-202) - 5T6(CB-202)",
+        "Optativa": "Rita Cristina Galarraga Berardi"
+      }
+    ],
+    "Matéria": "CSG30 - Gestão Da Informação Em Sistemas De Informação"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "4N4(CA-103) - 4N5(CA-103)",
+        "Optativa": "Paulo Apelles Camboim De Oliveira"
+      },
+      {
+        "Turma": "S93",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Educação Física2 - Sist De Informação3 - Eng Elétrica3 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "6M4(CA-102) - 6M5(CA-102)",
+        "Optativa": "Rejane Cioli"
+      }
+    ],
+    "Matéria": "GE70K - Gestão De Oportunidades"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "T81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Tecnol.Em Radiologia",
+        "Horario": "",
+        "Professor": "5T4(CA-102) - 5T5(CA-102)",
+        "Optativa": "Rejane Cioli"
+      }
+    ],
+    "Matéria": "GE70F - Gestão De Pessoas"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S41",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "5T5(CA-202) - 5T6(CA-202)",
+        "Optativa": "Hilda Alberton De Carvalho"
+      },
+      {
+        "Turma": "S43",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "2M4(CA-102) - 2M5(CA-102)",
+        "Optativa": "Rejane Cioli"
+      }
+    ],
+    "Matéria": "GE79A - Gestão De Pessoas"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Ind Automação1 - Eng Elétrica1 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "2M5(CE-304) - 2M6(CE-304)",
+        "Optativa": "Armando Rasoto"
+      },
+      {
+        "Turma": "S15",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "0",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecatrônica",
+        "Horario": "",
+        "Professor": "3T2(CE-106) - 3T3(CE-106)",
+        "Optativa": "Antonio Barbosa Lemes Junior"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação",
+        "Horario": "",
+        "Professor": "2M2(CC-205) - 2M3(CC-205)",
+        "Optativa": "Antonio Barbosa Lemes Junior"
+      }
+    ],
+    "Matéria": "GE70H - Gestão Financeira"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Design",
+        "Horario": "",
+        "Professor": "6M1(CE-106) - 6M2(CE-106)",
+        "Optativa": "Marcos Aurelio Nascimento Teixeira"
+      }
+    ],
+    "Matéria": "GE70O - Gestão Mercadológica"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Design",
+        "Horario": "",
+        "Professor": "4M5(CE-106) - 4M6(CE-106)",
+        "Optativa": "Gilson Leandro Queluz"
+      },
+      {
+        "Turma": "S32",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Design",
+        "Horario": "",
+        "Professor": "5T2(CE-105) - 5T3(CE-105)",
+        "Optativa": "Mario Lopes Amorim"
+      }
+    ],
+    "Matéria": "ES70N - História Da Técnica E Da Tecnologia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5T4(CE-302) - 5T5(CE-302) - 5T6(CE-302)",
+        "Optativa": "Elena Camargo Shizuno"
+      }
+    ],
+    "Matéria": "ES70S - História Da Técnica E Da Tecnologia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "2T2(CQ-309) - 2T3(CQ-309) - 2T4(CQ-309)",
+        "Optativa": "Mario Lopes Amorim"
+      },
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "3T4(CE-105) - 3T5(CE-105) - 3T6(CE-105)",
+        "Optativa": "Elena Camargo Shizuno"
+      },
+      {
+        "Turma": "S03",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "2T4(CE-206) - 2T5(CE-206) - 2T6(CE-206)",
+        "Optativa": "Elena Camargo Shizuno"
+      }
+    ],
+    "Matéria": "FCH7HA - História Da Técnica E Da Tecnologia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "M31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Tecn Design Gráfico2 - Design",
+        "Horario": "",
+        "Professor": "6M1(CE-103) - 6M2(CE-103)",
+        "Optativa": "Gilson Leandro Queluz"
+      },
+      {
+        "Turma": "N31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Tecn Design Gráfico2 - Design",
+        "Horario": "",
+        "Professor": "3N1(CC-205) - 3N2(CC-205)",
+        "Optativa": "Mario Lopes Amorim"
+      }
+    ],
+    "Matéria": "ES81A - História Da Técnica E Da Tecnologia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "4N1(CE-202) - 4N2(CE-202) - 4N3(CE-202)",
+        "Optativa": "Sandro Marlus Wambier"
+      }
+    ],
+    "Matéria": "FCH7HB - História Geral Da Economia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2N1(CB-206) - 2T6(CB-206) - 4N1(CB-206) - 4T6(CB-206)",
+        "Optativa": "Fabiano Scriptore De Carvalho"
+      }
+    ],
+    "Matéria": "ICSR42 - Infraestrutura De Lans Hierárquicas"
+  },
+  { "turmas": [], "Matéria": "LIC70A - Interpretação E Produção De Texto" },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T1(CB-202) - 2T2(CB-202) - 6M4(CB-201) - 6M5(CB-201)",
+        "Optativa": "Leandro Batista De Almeida"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "3T4(CB-105) - 3T5(CB-105) - 5T4(CB-105) - 5T5(CB-105)",
+        "Optativa": "Nadia Puchalski Kozievitch"
+      }
+    ],
+    "Matéria": "ICSB30 - Introdução A Banco De Dados"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "6M2(CB-105) - 6M3(CB-105) - 6M4(CB-105) - 6M5(CB-105)",
+        "Optativa": "Luiz Celso Gomes Junior"
+      }
+    ],
+    "Matéria": "ICSB53 - Introdução A Ciências De Dados"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S61",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "25",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Química1 - Lic Química",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Mauricio Koubay Do Amaral"
+      },
+      {
+        "Turma": "S63",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "25",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Administração",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Mauricio Koubay Do Amaral"
+      },
+      {
+        "Turma": "S83",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "25",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Matemática",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Mauricio Koubay Do Amaral"
+      }
+    ],
+    "Matéria": "EST70A - Introdução À Estatística"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2N1(CA-001) - 2T5(CA-001) - 2T6(CA-001)",
+        "Optativa": "Marilia Abrahao Amaral"
+      }
+    ],
+    "Matéria": "CSH30 - Introdução À Interação Humano-Computador"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "32",
+        "Vagas Calouros": "22",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "5M3(CB-202) - 5M4(CB-202) - 5M5(CB-202)",
+        "Optativa": "Adolfo Gustavo Serra Seca Neto"
+      },
+      {
+        "Turma": "S72",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "32",
+        "Vagas Calouros": "22",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "4T2(CB-201) - 4T3(CB-201) - 4T4(CB-201)",
+        "Optativa": "Cesar Augusto Tacla"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "5T2(CE-102) - 5T3(CE-102) - 5T4(CE-102)",
+        "Optativa": "Marina Esther Groshaus"
+      }
+    ],
+    "Matéria": "ICSD20 - Introdução À Lógica Para Computação"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Física2 - Lic Matemática2 - Lic Química2 - Lic Letras Inglês2 - Lic Letras Português",
+        "Horario": "",
+        "Professor": "4T3(CA-102) - 4T4(CA-102)",
+        "Optativa": "Silvia Andreis Witkoski"
+      },
+      {
+        "Turma": "S85",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Letras Inglês2 - Lic Física2 - Lic Matemática2 - Lic Química2 - Lic Letras Português",
+        "Horario": "",
+        "Professor": "5M3(CN-022) - 5M4(CN-022)",
+        "Optativa": "Silvia Andreis Witkoski"
+      }
+    ],
+    "Matéria": "ED70T - Libras A"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S65",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Química2 - Lic Física2 - Lic Matemática2 - Lic Letras Inglês2 - Lic Letras Português",
+        "Horario": "",
+        "Professor": "4M3(CE-202) - 4M4(CE-202)",
+        "Optativa": "Rita De Cassia Maestri"
+      },
+      {
+        "Turma": "S81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Física2 - Lic Matemática2 - Lic Química2 - Lic Letras Inglês2 - Lic Letras Português",
+        "Horario": "",
+        "Professor": "5T4(CC-205) - 5T5(CC-205)",
+        "Optativa": "Rita De Cassia Maestri"
+      },
+      {
+        "Turma": "S83",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Matemática2 - Lic Física2 - Lic Química2 - Lic Letras Inglês2 - Lic Letras Português",
+        "Horario": "",
+        "Professor": "3M3(CE-105) - 3M4(CE-105)",
+        "Optativa": "Rita De Cassia Maestri"
+      },
+      {
+        "Turma": "S85",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Letras Inglês2 - Lic Física2 - Lic Matemática2 - Lic Química2 - Lic Letras Português",
+        "Horario": "",
+        "Professor": "3T1(CC-205) - 3T2(CC-205)",
+        "Optativa": "Rita De Cassia Maestri"
+      }
+    ],
+    "Matéria": "ED70U - Libras B"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S91",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Letras Português2 - Lic Física2 - Lic Matemática2 - Lic Química2 - Lic Letras Inglês",
+        "Horario": "",
+        "Professor": "5T4(CQ-302) - 5T5(CQ-302)",
+        "Optativa": "Silvia Andreis Witkoski"
+      }
+    ],
+    "Matéria": "ED70G - Libras 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S91",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Lic Letras Português2 - Lic Física2 - Lic Matemática2 - Lic Química2 - Lic Letras Inglês",
+        "Horario": "",
+        "Professor": "5N1(CE-204) - 5N2(CE-204)",
+        "Optativa": "Rita De Cassia Maestri"
+      }
+    ],
+    "Matéria": "ED70H - Libras 2"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "6T2(CE-207) - 6T3(CE-207) - 6T4(CE-207)",
+        "Optativa": "Leandro Miranda ZateskoMarina Esther Groshaus"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "2T4(CE-308) - 2T5(CE-308) - 2T6(CE-308)",
+        "Optativa": "Marina Esther Groshaus"
+      },
+      {
+        "Turma": "S74",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "2T1(CE-303) - 2T2(CE-303) - 2T3(CE-303)",
+        "Optativa": "Marina Esther Groshaus"
+      }
+    ],
+    "Matéria": "ICSD21 - Matemática Discreta"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "2T2(CA-202) - 2T3(CA-202) - 2T4(CA-202)",
+        "Optativa": "Claudia Novaes Deina"
+      }
+    ],
+    "Matéria": "FCH7GA - Metropolização Contemporânea: Tecnologia E Território"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S53",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Arquitet E Urbanismo",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Wesley Bertoli Da Silva"
+      }
+    ],
+    "Matéria": "EST70B - Noções De Estatística"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5N1(CB-206) - 5T6(CB-206)",
+        "Optativa": "Fabiano Scriptore De Carvalho"
+      }
+    ],
+    "Matéria": "CSR41 - Oficina De Redes"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3N1(CB-206) - 3T6(CB-206) - 5N1(CB-206) - 5T6(CB-206)",
+        "Optativa": "Fabiano Scriptore De Carvalho"
+      }
+    ],
+    "Matéria": "ICSR41 - Oficina De Redes"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "4N1(CE-203) - 4N2(CE-203) - 4N3(CE-203)",
+        "Optativa": "Maria Jose Menezes Lourega Belli"
+      }
+    ],
+    "Matéria": "FCH7XE - Políticas Públicas"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "5T3(CE-305) - 5T4(CE-305) - 6T4(CE-102) - 6T5(CE-102)",
+        "Optativa": "Luiz Fernando Nunes"
+      }
+    ],
+    "Matéria": "ELM01 - Pré-Cálculo"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "2M4(CE-104) - 2M5(CE-104)",
+        "Optativa": "Andrea Maila Voss"
+      },
+      {
+        "Turma": "S03",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "5N3(CC-205) - 5N4(CC-205)",
+        "Optativa": "Claudia Novaes Deina"
+      }
+    ],
+    "Matéria": "FCH7XC - Presença Africana No Brasil"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Disponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "4N3(CE-204) - 4N4(CE-204) - 6N3(CE-103) - 6N4(CE-103)",
+        "Optativa": ""
+      },
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "2T4(CE-302) - 2T5(CE-302) - 3T2(CE-306) - 3T3(CE-306)",
+        "Optativa": "Inacio Andruski Guimaraes"
+      },
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Silvana Heidemann Rocha"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Angelica Maria Tortola Ribeiro"
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Wesley Bertoli Da Silva"
+      },
+      {
+        "Turma": "S41",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Jose Carlos Pereira Coninck"
+      },
+      {
+        "Turma": "S43",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecânica",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Angelica Maria Tortola Ribeiro"
+      },
+      {
+        "Turma": "S53",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "0",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Arquitet E Urbanismo",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Silvana Heidemann Rocha"
+      },
+      {
+        "Turma": "S55",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Amb/Sanitária",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Angelica Maria Tortola Ribeiro"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Roberto Molina De Souza"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "EaD",
+        "Vagas Total": "49",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Jose Carlos Pereira Coninck"
+      }
+    ],
+    "Matéria": "MA70H - Probabilidade E Estatística"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3T5(CB-107) - 3T6(CB-107) - 5T5(CB-107) - 5T6(CB-107)",
+        "Optativa": "Bogdan Tomoyuki Nassu"
+      }
+    ],
+    "Matéria": "ICSV30 - Processamento Digital De Imagens"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Eng Eletrônica2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3N2(CQ-103) - 3N2(CQ-103) - 3N3(CQ-103) - 3N3(CQ-103) - 3N4(CQ-103) - 3N4(CQ-103) - 3N5(CQ-103) - 3N5(CQ-103)",
+        "Optativa": "Humberto Remigio GambaGustavo Benvenutti Borba"
+      }
+    ],
+    "Matéria": "IF69D - Processamento Digital De Imagens"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng Eletrônica2 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5T5(CQ-204) - 5T6(CQ-204) - 6T4(CQ-204) - 6T5(CQ-204)",
+        "Optativa": "Danillo Leal Belmonte"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação2 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "4T2(CB-202) - 4T3(CB-202) - 4T4(CB-202) - 4T5(CB-202)",
+        "Optativa": "Paulo Roberto Bueno"
+      }
+    ],
+    "Matéria": "CSM43 - Programação Para Dispositivos Móveis E Sem Fio"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "19",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5T3(CB-206) - 5T4(CB-206) - 5T5(CB-206)",
+        "Optativa": "Luiz Augusto Pelisson"
+      }
+    ],
+    "Matéria": "ICSR45 - Projeto De Infraestrutura De Redes"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5T1(CE-308) - 5T2(CE-308) - 5T3(CE-308)",
+        "Optativa": "Ricardo Dutra Da Silva"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "0",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "4T4(CE-208) - 4T5(CE-208) - 4T6(CE-208)",
+        "Optativa": "Ricardo Dutra Da Silva"
+      }
+    ],
+    "Matéria": "ICSA30 - Projeto E Análise De Algoritmos"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "48",
+        "Vagas Calouros": "44",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T4(CE-205) - 2T5(CE-205) - 4T4(CA-001) - 4T5(CA-001)",
+        "Optativa": "Rita Cristina Galarraga Berardi"
+      },
+      {
+        "Turma": "S74",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "0",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T4(CB-105) - 2T5(CB-105) - 4T4(CE-206) - 4T5(CE-206)",
+        "Optativa": "Luiz Augusto Pelisson"
+      }
+    ],
+    "Matéria": "CSX10 - Prolegômenos Ao Computar"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "N31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Tecn Design Gráfico2 - Design",
+        "Horario": "",
+        "Professor": "5N1(CE-105) - 5N2(CE-105)",
+        "Optativa": "Maria Luisa Carvalho"
+      },
+      {
+        "Turma": "S15",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Mecatrônica",
+        "Horario": "",
+        "Professor": "2M4(CE-303) - 2M5(CE-303)",
+        "Optativa": "Armenes De Jesus Ramos Junior"
+      },
+      {
+        "Turma": "S21",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Ind Automação1 - Eng Elétrica2 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "4N2(CE-201) - 4N3(CE-201)",
+        "Optativa": "Maria Luisa Carvalho"
+      },
+      {
+        "Turma": "S23",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Elétrica2 - Eng Ind Automação2 - Eng Contr/Automação",
+        "Horario": "",
+        "Professor": "6M3(CE-103) - 6M4(CE-103)",
+        "Optativa": "Maria Luisa Carvalho"
+      },
+      {
+        "Turma": "S25",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng Ind Automação1 - Eng Contr/Automação2 - Eng Elétrica",
+        "Horario": "",
+        "Professor": "6M1(CQ-309) - 6M2(CQ-309)",
+        "Optativa": "Maria Luisa Carvalho"
+      },
+      {
+        "Turma": "S31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Design1 - Tecn Design Gráfico",
+        "Horario": "",
+        "Professor": "5M4(CE-301) - 5M5(CE-301)",
+        "Optativa": "Armenes De Jesus Ramos Junior"
+      }
+    ],
+    "Matéria": "ES70B - Psicologia Aplicada Ao Trabalho"
+  },
+  { "turmas": [], "Matéria": "ES72C - Psicologia Aplicada Ao Trabalho" },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "4N1(CB-107) - 4T5(CB-107) - 4T6(CB-107)",
+        "Optativa": "Luiz Celso Gomes Junior"
+      }
+    ],
+    "Matéria": "ICSB51 - Recuperação Inteligente De Informações"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "6M3(CB-106) - 6M4(CB-106) - 6M5(CB-106)",
+        "Optativa": "Anelise Munaretto Fonseca"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "4T4(CB-104) - 4T4(CB-104) - 4T5(CB-104) - 4T5(CB-104) - 4T6(CB-104) - 4T6(CB-104)",
+        "Optativa": "Anelise Munaretto FonsecaMauro Sergio Pereira Fonseca"
+      }
+    ],
+    "Matéria": "ICSR30 - Redes De Computadores"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S11",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Eng Eletrônica2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3N1(D-PTO) - 3N2(D-PTO) - 3T5(D-PTO) - 3T6(D-PTO)",
+        "Optativa": "Hermes Irineu Del Monego"
+      }
+    ],
+    "Matéria": "IF66B - Redes De Computadores 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "22",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2N1(CB-105) - 2N2(CB-105) - 4N1(CB-202) - 4N2(CB-202)",
+        "Optativa": "Mauro Sergio Pereira Fonseca"
+      }
+    ],
+    "Matéria": "ICSR44 - Segurança De Redes E Sistemas"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "30",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "6N1(CB-104) - 6T5(CB-104) - 6T6(CB-104)",
+        "Optativa": "Alexandre Reis Graeml"
+      }
+    ],
+    "Matéria": "CSG70 - Sistemas De Informação E Organizações"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3T2(CB-202) - 3T3(CB-202) - 5T2(CB-106) - 5T3(CB-106)",
+        "Optativa": "Ana Cristina Barreiras Kochem Vendramin"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "4T4(CB-106) - 4T5(CB-106) - 5T4(CB-106) - 5T5(CB-106)",
+        "Optativa": "Ana Cristina Barreiras Kochem Vendramin"
+      }
+    ],
+    "Matéria": "ICSS30 - Sistemas Distribuídos"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S12",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "0",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "5N1(CQ-201) - 5N2(CQ-201) - 5N3(CQ-201) - 5T6(CQ-201)",
+        "Optativa": "Eduardo Nunes Dos Santos"
+      }
+    ],
+    "Matéria": "ELF74 - Sistemas Embarcados"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação3 - Eng Eletrônica",
+        "Horario": "",
+        "Professor": "5T1(CB-201) - 5T2(CB-201) - 5T3(CB-201)",
+        "Optativa": "Cesar Augusto Tacla"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação1 - Eng Eletrônica2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "4N2(CB-107) - 4N2(CB-107) - 4N3(CB-107) - 4N3(CB-107) - 4N4(CB-107) - 4N4(CB-107)",
+        "Optativa": "Joao Alberto FabroGustavo Alberto Gimenez Lugo"
+      }
+    ],
+    "Matéria": "ICSI30 - Sistemas Inteligentes"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2M2(CB-105) - 2M3(CB-105) - 2M4(CB-105) - 2M5(CB-105)",
+        "Optativa": "Marco Aurelio Wehrmeister"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "2T3(CB-202) - 2T4(CB-202) - 2T5(CB-202) - 2T6(CB-202)",
+        "Optativa": "Marco Aurelio Wehrmeister"
+      }
+    ],
+    "Matéria": "ICSO30 - Sistemas Operacionais"
+  },
+  { "turmas": [], "Matéria": "ES70Q - Sociedade E Política No Brasil" },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5T3(CE-205) - 5T4(CE-205) - 5T5(CE-205)",
+        "Optativa": "Geraldo Augusto Pinto"
+      }
+    ],
+    "Matéria": "ES70G - Sociologia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S63",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "46",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Administração",
+        "Horario": "",
+        "Professor": "5M1(CA-103) - 5M2(CA-103) - 5M3(CA-103)",
+        "Optativa": "Roberto Ranna Keller"
+      },
+      {
+        "Turma": "S64",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "6M1(CC-205) - 6M2(CC-205) - 6M3(CC-205)",
+        "Optativa": "Roberto Ranna Keller"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Eng De Computação",
+        "Horario": "",
+        "Professor": "3M3(CQ-309) - 3M4(CQ-309) - 3M5(CQ-309)",
+        "Optativa": "Geraldo Augusto Pinto"
+      }
+    ],
+    "Matéria": "FCH7SA - Sociologia"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "32",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2M2(CA-001) - 2M3(CA-001) - 2M4(CA-001) - 2M5(CA-001)",
+        "Optativa": "Milton Borsato"
+      },
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "4M2(CB-202) - 4M3(CB-202) - 4M4(CB-202) - 4M5(CB-202)",
+        "Optativa": "Milton Borsato"
+      },
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2M4(CB-107) - 2M5(CB-107) - 3M4(CB-107) - 3M5(CB-107)",
+        "Optativa": "Jean Marcelo Simao"
+      },
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação2 - Eng De Computação",
+        "Horario": "",
+        "Professor": "3T2(CB-106) - 3T3(CB-106) - 4T2(CB-105) - 4T3(CB-105)",
+        "Optativa": "Jean Marcelo Simao"
+      }
+    ],
+    "Matéria": "ICSE20 - Técnicas De Programação"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S03",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "6M4(CE-106) - 6M5(CE-106)",
+        "Optativa": "Roberto Ranna Keller"
+      },
+      {
+        "Turma": "S31",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "1 - Design",
+        "Horario": "",
+        "Professor": "4M5(CE-104) - 4M6(CE-104)",
+        "Optativa": "Armenes De Jesus Ramos Junior"
+      },
+      {
+        "Turma": "S32",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "1 - Design",
+        "Horario": "",
+        "Professor": "4T5(CA-102) - 4T6(CA-102)",
+        "Optativa": "Roberto Ranna Keller"
+      }
+    ],
+    "Matéria": "ES70R - Tecnologia E Sociedade"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S01",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "2T2(CQ-306) - 2T3(CQ-306) - 2T4(CQ-306)",
+        "Optativa": "Armenes De Jesus Ramos Junior"
+      }
+    ],
+    "Matéria": "FCH7SC - Tecnologia, Trabalho E Saúde"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S71",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Eng De Computação2 - Sist De Informação",
+        "Horario": "",
+        "Professor": "5T4(CE-206) - 5T5(CE-206) - 5T6(CE-206)",
+        "Optativa": "Leandro Miranda Zatesko"
+      }
+    ],
+    "Matéria": "ICSA31 - Teoria Da Computação"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S02",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "5M1(CE-306) - 5M2(CE-306) - 5M3(CE-306)",
+        "Optativa": "Veronica Ferreira Bahr Calazans"
+      }
+    ],
+    "Matéria": "FCH7FC - Teoria Das Ciências Humanas"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3T1(CE-102) - 3T2(CE-102) - 5T1(CE-202) - 5T2(CE-202)",
+        "Optativa": "Eduardo Bernardes De Castro"
+      }
+    ],
+    "Matéria": "GE71A - Teorias Da Administração"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T1(CE-104) - 2T2(CE-104) - 6T4(CE-105) - 6T5(CE-105)",
+        "Optativa": "Marcos Aurelio Nascimento Teixeira"
+      }
+    ],
+    "Matéria": "GE72A - Teorias Organizacionais"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "60",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "2T1(CE-101) - 2T2(CE-101) - 2T3(CE-101) - 4T1(CE-208) - 4T2(CE-208) - 4T3(CE-208)",
+        "Optativa": "Fabio Antonio Dorini"
+      }
+    ],
+    "Matéria": "MA70E - Tópicos Matemáticos"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S63",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "50",
+        "Vagas Calouros": "44",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Administração",
+        "Horario": "",
+        "Professor": "2M1(CE-108) - 2M2(CE-108) - 2M3(CE-108) - 3M1(CE-307) - 3M2(CE-307) - 3M3(CE-307)",
+        "Optativa": "Ricardo Paleari Da Silva"
+      },
+      {
+        "Turma": "T81",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "26",
+        "Reserva": "Aberta",
+        "Prioridade - Curso": "1 - Tecnol.Em Radiologia",
+        "Horario": "",
+        "Professor": "2T5(CE-301) - 2T6(CE-301) - 3T5(CE-301) - 3T6(CE-301) - 5T1(CE-205) - 5T2(CE-205)",
+        "Optativa": "Raimundo Ronilson Leal Do Rosario"
+      }
+    ],
+    "Matéria": "MAT7T1 - Tópicos Matemáticos 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "4N1(CB-105) - 4T6(CB-105)",
+        "Optativa": "Daniel Fernando Pigatto"
+      }
+    ],
+    "Matéria": "CSX40 - Trabalho De Conclusão De Curso 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Disponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "65",
+        "Vagas Calouros": "0",
+        "Reserva": "Sem Reserva",
+        "Prioridade - Curso": "",
+        "Horario": "",
+        "Professor": "",
+        "Optativa": "Leyza Elmeri Baldo Dorini"
+      }
+    ],
+    "Matéria": "CSX41 - Trabalho De Conclusão De Curso 2"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "4T1(CB-107) - 4T1(CB-107) - 4T2(CB-107) - 4T2(CB-107) - 4T3(CB-107) - 4T3(CB-107)",
+        "Optativa": "Mariangela De Oliveira Gomes SettiMarilia Abrahao Amaral"
+      }
+    ],
+    "Matéria": "CSX20 - Trabalho De Integração 1"
+  },
+  {
+    "turmas": [
+      {
+        "Turma": "S73",
+        "Matricula Intercampus": "Indisponível",
+        "Enquadramento": "Presencial",
+        "Vagas Total": "44",
+        "Vagas Calouros": "0",
+        "Reserva": "Fechada",
+        "Prioridade - Curso": "1 - Sist De Informação",
+        "Horario": "",
+        "Professor": "3T4(CA-203) - 3T5(CA-203) - 3T6(CA-203)",
+        "Optativa": "Gustavo Alberto Gimenez Lugo"
+      }
+    ],
+    "Matéria": "CSX30 - Trabalho De Integração 2"
+  }
+]
+    

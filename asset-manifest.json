@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gradeutfpr/static/css/main.221dc85b.css",
-    "main.js": "/gradeutfpr/static/js/main.a97d3226.js",
-    "index.html": "/gradeutfpr/index.html",
-    "main.221dc85b.css.map": "/gradeutfpr/static/css/main.221dc85b.css.map",
-    "main.a97d3226.js.map": "/gradeutfpr/static/js/main.a97d3226.js.map"
+    "main.css": "/GradeUTFPR/static/css/main.221dc85b.css",
+    "main.js": "/GradeUTFPR/static/js/main.a97d3226.js",
+    "index.html": "/GradeUTFPR/index.html",
+    "main.221dc85b.css.map": "/GradeUTFPR/static/css/main.221dc85b.css.map",
+    "main.a97d3226.js.map": "/GradeUTFPR/static/js/main.a97d3226.js.map"
   },
   "entrypoints": [
     "static/css/main.221dc85b.css",

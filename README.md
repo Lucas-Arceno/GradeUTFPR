@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Grade Horários UTFPR
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao repositório do projeto Grade Horários UTFPR! Este projeto consiste em um site que auxilia os alunos da UTFPR (Universidade Tecnológica Federal do Paraná) a montarem suas grades horárias de forma visual e intuitiva.
 
-## Available Scripts
+[Link do Site](https://lucas-arceno.github.io/GradeUTFPR/)
 
-In the project directory, you can run:
+## Descrição
 
-### `npm start`
+O objetivo deste projeto é facilitar o processo de montagem de grades horárias para os alunos da UTFPR. O site fornece uma interface amigável e interativa, onde os alunos podem selecionar as disciplinas disponíveis e visualizar as opções de horários de acordo com sua escolha.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O site utiliza as seguintes tecnologias:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React: uma biblioteca JavaScript de código aberto para criar interfaces de usuário.
+- JavaScript: uma linguagem de programação amplamente utilizada para desenvolvimento web.
+- HTML: uma linguagem de marcação para estruturar o conteúdo do site.
+- CSS: uma linguagem de estilo para definir a aparência e o layout do site.
 
-### `npm test`
+## Funcionalidades
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O projeto Grade Horários UTFPR possui as seguintes funcionalidades principais:
 
-### `npm run build`
+1. Visualização de disciplinas: Os alunos podem visualizar todas as disciplinas disponíveis, incluindo seus nomes, códigos e descrições.
+2. Seleção de disciplinas: Os alunos podem selecionar as disciplinas desejadas para montar sua grade horária.
+3. Visualização de horários: Com base nas disciplinas selecionadas, o site exibe visualmente as opções de horários disponíveis para cada disciplina, facilitando a montagem da grade horária.
+4. Armazenamento local: O site utiliza o armazenamento local do navegador para manter as seleções de disciplinas, permitindo que os alunos possam retornar ao site e continuar a montagem da grade horária a partir do ponto em que pararam.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Instalação e Uso
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Siga as instruções abaixo para configurar o projeto em seu ambiente de desenvolvimento:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Certifique-se de ter o [Node.js](https://nodejs.org) instalado em seu computador.
+2. Clone este repositório para o seu diretório local usando o seguinte comando:
+https://github.com/Lucas-Arceno/GradeUTFPR.git
+3. Navegue até o diretório clonado:
+cd nome-do-repositorio
+4. Instale as dependências do projeto executando o seguinte comando:
+npm install
+5. Inicie o servidor de desenvolvimento:
+## Licença
 
-### `npm run eject`
+Este projeto está licenciado sob a [MIT License](LICENSE.md). Sinta-se à vontade para utilizar e modificar este projeto de acordo com as diretrizes da licença.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contato
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Se você tiver alguma dúvida ou sugestão sobre o projeto, sinta-se à vontade para entrar em contato comigo por meio do meu perfil do GitHub.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Esperamos que este projeto seja útil para os alunos da UTFPR na montagem de suas grades horárias. Agradecemos seu interesse e contribuições!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

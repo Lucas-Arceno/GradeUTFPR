@@ -28,12 +28,9 @@ O projeto Grade Horários UTFPR possui as seguintes funcionalidades principais:
 Siga as instruções abaixo para configurar o projeto em seu ambiente de desenvolvimento:
 
 1. Certifique-se de ter o [Node.js](https://nodejs.org) instalado em seu computador.
-2. Clone este repositório para o seu diretório local usando o seguinte comando:
-https://github.com/Lucas-Arceno/GradeUTFPR.git
-3. Navegue até o diretório clonado:
-cd nome-do-repositorio
-4. Instale as dependências do projeto executando o seguinte comando:
-npm install
+2. Clone este repositório para o seu diretório local usando o seguinte comando: git clone https://github.com/Lucas-Arceno/GradeUTFPR.git
+3. Navegue até o diretório clonado: cd nome-do-repositorio
+4. Instale as dependências do projeto executando o seguinte comando: npm install
 5. Inicie o servidor de desenvolvimento:
 ## Licença
 

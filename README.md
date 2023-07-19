@@ -22,7 +22,6 @@ O projeto Grade Horários UTFPR possui as seguintes funcionalidades principais:
 1. Visualização de disciplinas: Os alunos podem visualizar todas as disciplinas disponíveis, incluindo seus nomes, códigos e descrições.
 2. Seleção de disciplinas: Os alunos podem selecionar as disciplinas desejadas para montar sua grade horária.
 3. Visualização de horários: Com base nas disciplinas selecionadas, o site exibe visualmente as opções de horários disponíveis para cada disciplina, facilitando a montagem da grade horária.
-4. Armazenamento local: O site utiliza o armazenamento local do navegador para manter as seleções de disciplinas, permitindo que os alunos possam retornar ao site e continuar a montagem da grade horária a partir do ponto em que pararam.
 
 ## Instalação e Uso
 
